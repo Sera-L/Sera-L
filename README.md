@@ -23,3 +23,4 @@ An Algerian web developer who love linux and FOSS projects
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sera-L&show_icons=true&theme=github_dark) ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sera-L&layout=compact&theme=github_dark)
 
 Coding is a hobby and not a serious work for me in this time because of school, so i code just in weekends and holidays.
+
